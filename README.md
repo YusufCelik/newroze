@@ -12,7 +12,7 @@ To use this debugger you must have:
 
 3. Mipsel-unknown-elf-gdb installed.
 
-4. The Newroze GDB server.
+4. The Newroze GDB server: https://github.com/YusufCelik/newroze-psx-debugger
 
 You can watch a demo of the debugger here:
 
