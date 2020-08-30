@@ -1,0 +1,2 @@
+# newroze
+A Playstation Debugger 
