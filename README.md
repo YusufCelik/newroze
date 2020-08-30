@@ -17,3 +17,11 @@ To use this debugger you must have:
 You can watch a demo of the debugger here:
 
 [![LINK TO YOUTUBE](https://img.youtube.com/vi/2cDi7pAbXTc/0.jpg)](https://www.youtube.com/watch?v=2cDi7pAbXTc)
+
+## Load address
+Keep in mind that the debugger itself uses aroun 32k of memory. It occupies this space from the 0x80010000 address onwards. Hence, the "debugee" (that is the ELF file that you wish to debug) has to start around address 0x80030000 or 0x80040000 (to be safe).
+
+## Thanks 
+
+To make this piece of software I had to rely on various pointers and information from the Playstation homebrew development community (Psxdev).
+As such, I would like to thank Nicolas Noble, LameGuy, Sickle, DanHans, Trimesh, and others for their input and support.
