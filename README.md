@@ -18,6 +18,9 @@ You can watch a demo of the debugger here:
 
 [![LINK TO YOUTUBE](https://img.youtube.com/vi/2cDi7pAbXTc/0.jpg)](https://www.youtube.com/watch?v=2cDi7pAbXTc)
 
+<img alt-text="debuggerinaction1" src="images/d0.jpeg" width="400">
+<img alt-text="debuggerinaction2" src="images/d1.jpeg" width="400">
+
 ## Load address
 Keep in mind that the debugger itself uses aroun 32k of memory. It occupies this space from the 0x80010000 address onwards. Hence, the "debugee" (that is the ELF file that you wish to debug) has to start around address 0x80030000 or 0x80040000 (to be safe).
 
