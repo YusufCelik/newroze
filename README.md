@@ -27,4 +27,4 @@ Keep in mind that the debugger itself uses aroun 32k of memory. It occupies this
 ## Thanks 
 
 To make this piece of software I had to rely on various pointers and information from the Playstation homebrew development community (Psxdev).
-As such, I would like to thank Nicolas Noble, LameGuy, Sickle, DanHans, Trimesh, and others for their input and support.
+As such, I would like to thank Nicolas Noble, Asmblur, LameGuy, Sickle, DanHans, Trimesh, and others for their input and support.
