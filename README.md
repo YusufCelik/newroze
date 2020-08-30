@@ -14,7 +14,7 @@ To use this debugger you must have:
 
 4. The Newroze GDB server: https://github.com/YusufCelik/newroze-psx-debugger
 
-You can watch a demo of the debugger here:
+You can watch a demo of the debugger here (click on the image below to go to video):
 
 [![LINK TO YOUTUBE](https://img.youtube.com/vi/2cDi7pAbXTc/0.jpg)](https://www.youtube.com/watch?v=2cDi7pAbXTc)
 
