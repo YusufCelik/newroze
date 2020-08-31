@@ -18,6 +18,11 @@ You can watch a demo of the debugger here (click on the image below to go to vid
 
 [![LINK TO YOUTUBE](https://img.youtube.com/vi/2cDi7pAbXTc/0.jpg)](https://www.youtube.com/watch?v=2cDi7pAbXTc)
 
+Newroze by using Native Debug extension and VisualCode:
+
+<img alt-text="debuggerinaction3" src="images/d3.png" width="900">
+
+
 <img alt-text="debuggerinaction1" src="images/d0.jpeg" width="400">
 <img alt-text="debuggerinaction2" src="images/d1.jpeg" width="400">
 
